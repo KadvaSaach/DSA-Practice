@@ -4,3 +4,4 @@ DSA Practice GitHub repo is a repository dedicated to practicing and mastering d
 
 - [Array](./Array)
 - [Hash Table](./Hash_Tables)
+- [Lined List](./Linked_Lists/)
