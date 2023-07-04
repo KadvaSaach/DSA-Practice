@@ -2,9 +2,20 @@
 
 It's a collection of nodes where each node contains data as well as the memory address of the next node in the list.
 
+## Time complexity
+
 | prepend() | append() | lookup() | insert() | delete() |
 | --------- | -------- | -------- | -------- | -------- |
 | O(1)      | O(1)     | O(n)     | O(n)     | O(n)     |
+
+</br>
+
+| Advantages     | Disadvantages |
+| -------------- | ------------- |
+| Fast Insertion | Slow Lookup   |
+| Fast Deletion  | More Memory   |
+| Ordered        |               |
+| Flexible Size  |               |
 
 ## Nodes in a Linked List
 
