@@ -10,7 +10,7 @@ It's a collection of nodes where each node contains data as well as the memory a
 
 Nodes are the building block of the linked list.
 
-![Node](Node.svg)
+![Node](./src/Node.svg)
 
 A node in a linked list consists of two parts:
 
