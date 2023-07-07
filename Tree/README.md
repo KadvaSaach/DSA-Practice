@@ -1,4 +1,4 @@
-## Tree
+# Tree
 
 A tree is a hierarchical data structure consisting of vertices (nodes) and edges that connect them. Trees are similar to graphs, but the key point that differentiates a tree from the graph is that a cycle cannot exist in a tree.
 
@@ -53,14 +53,30 @@ Number of nodes = 2^h^ - 1
 
 A Binary Heap is a complete Binary Tree which is used to store data efficiently to get the max or min element based on its structure.
 
-#### How is Binary Heap represented?
+### How is Binary Heap represented?
 
 A Binary Heap is a Complete Binary Tree. A binary heap is typically represented as an array.
 
 - The root element will be at Arr[0].
 - The below table shows indices of other nodes for the ith node, i.e., Arr[i]:
 
-| Arr[(i-1)/2] |   Returns the parent node    |
-| :----------: | :--------------------------: |
-| Arr[(2*i)+1] | Returns the left child node  |
-| Arr[(2*i)+2] | Returns the right child node |
+|     Arr[ (i-1)/2 ]      |       Arr[ (2* i)+1 ]       |        Arr[ (2*i)+2 ]        |
+| :---------------------: | :-------------------------: | :--------------------------: |
+| Returns the parent node | Returns the left child node | Returns the right child node |
+
+#### Time complexity of Binary Heap
+
+| lookup |  insert  |  delete  |
+| :----: | :------: | :------: |
+|  O(n)  | O(log N) | O(log N) |
+
+##### Advantages of Binary Heap
+
+- Better than O(n)
+- Priority
+- Flexible Size
+- Fast Insert
+
+##### Disadvantages of Binary Heap
+
+- Slow Lookup

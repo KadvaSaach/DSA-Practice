@@ -10,3 +10,11 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+.metadata/
+.metadata/*
