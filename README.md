@@ -15,4 +15,4 @@ DSA Practice GitHub repo is a repository dedicated to practicing and mastering d
 
 - [Recursion](./Algorithms/Recursion/)
 - [Sorting](./Algorithms/Sorting)
-- [Searching && Traversal](./Algorithms/Searching_Traversal/)
+- [Searching & Traversal](./Algorithms/Searching_Traversal/)
