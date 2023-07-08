@@ -9,6 +9,8 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+tasks.json
+.vscode
 
 # Compiled class file
 *.class
