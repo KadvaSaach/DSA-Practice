@@ -17,3 +17,7 @@ DSA Practice GitHub repo is a repository dedicated to practicing and mastering d
 - [Sorting](./Algorithms/Sorting)
 - [Searching & Traversal](./Algorithms/Searching_Traversal/)
 - [Dynamic Programing](./Algorithms/Dynamic%20Programing/)
+
+## Problems
+
+-[LeetCode]()
