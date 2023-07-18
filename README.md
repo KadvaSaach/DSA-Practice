@@ -20,4 +20,4 @@ DSA Practice GitHub repo is a repository dedicated to practicing and mastering d
 
 ## Problems
 
-- [LeetCode]()
+- [LeetCode](./Problems/LeetCode-problems/)
